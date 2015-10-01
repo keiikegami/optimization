@@ -6,9 +6,9 @@
 ###以下の内容を主に扱う
 - 数理最適化入門
 - 施設配置問題
-    -容量制約付き施設配置問題
-    -k-median problem
-    -k-center problem
+    - 容量制約付き施設配置問題
+    - k-median problem
+    - k-center problem
 - グラフ最適化問題
 - 巡回路問題
 - 非線形関数の区分的線形近似
